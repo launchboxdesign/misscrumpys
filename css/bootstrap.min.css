@@ -235,6 +235,10 @@ button, select {
     text-transform: none
 }
 
+.header-btn {
+    background-color: #f4aa00;
+}
+
 [type=button], [type=reset], [type=submit], button {
     -webkit-appearance: button
 }

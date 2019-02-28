@@ -235,7 +235,7 @@ button, select {
     text-transform: none
 }
 
-btn btn-primary btn-lg header-btn {
+.btn .btn-primary .btn-lg .header-btn {
     background-color: #f4aa00;
 }
 

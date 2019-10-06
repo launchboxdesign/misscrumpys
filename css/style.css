@@ -666,6 +666,11 @@ figure.effect-bubba:hover p {
 	color: #fff;
 }
 
+.bg-black {
+	background-color: #000000;	
+	color: #fff;
+}
+
 .short-section {
 	border-top: 1px solid #5D5D5F;
 	border-bottom: 1px solid #5D5D5F;

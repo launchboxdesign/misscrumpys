@@ -4559,8 +4559,8 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-toggler {
-  color: rgba(255, 255, 255, 0.5);
-  border-color: rgba(255, 255, 255, 0.1);
+  color: rgba(172, 7, 0, 0.5);
+  border-color: transparent;
 }
 
 .navbar-dark .navbar-toggler-icon {

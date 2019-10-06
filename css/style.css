@@ -977,6 +977,7 @@ color: #fff;
 	width: 60px;
 	height: 60px;
 	display: block;
+	border-radius: 100px;
 	text-align: center;
 	font: 11px/100% Arial, Helvetica, sans-serif;
 	text-transform: uppercase;

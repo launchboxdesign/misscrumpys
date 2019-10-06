@@ -573,7 +573,7 @@ figcaption {
 }
 
 figure.effect-bubba {
-	background: #000;
+	background: transparent;
 	margin-bottom: 1px;
 }
 

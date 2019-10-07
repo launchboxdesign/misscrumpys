@@ -6395,9 +6395,6 @@ a.close.disabled {
   background-image: url("https://raw.githubusercontent.com/launchboxdesign/tcas.inc/master/images/transport-trailer-header.png");
   background-size: cover !important;
   background-repeat: no-repeat !important;
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,

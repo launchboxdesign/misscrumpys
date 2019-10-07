@@ -6392,6 +6392,7 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #007bff !important;
+  background-image: url("https://raw.githubusercontent.com/launchboxdesign/tcas.inc/master/images/transport-trailer-header.png");
 }
 
 a.bg-primary:hover, a.bg-primary:focus,

@@ -85,7 +85,10 @@ a, a:hover, a:focus, a:active, a.active {
 		padding: 150px 0;
 	}
 }
+/*Test For Iphone*/
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
 
+    }
 section {
 	padding: 70px 0;
 }

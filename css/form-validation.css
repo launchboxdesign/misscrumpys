@@ -6667,6 +6667,12 @@ button.bg-dark:focus {
     display: -ms-inline-flexbox !important;
     display: inline-flex !important;
   }
+  .bg-primary {
+    background-color: #ac0700 !important;
+    background-image: none;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+  }
 }
 
 @media (min-width: 768px) {
@@ -6698,6 +6704,12 @@ button.bg-dark:focus {
   .d-md-inline-flex {
     display: -ms-inline-flexbox !important;
     display: inline-flex !important;
+  }
+  .bg-primary {
+    background-color: #ac0700 !important;
+    background-image: none;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
   }
 }
 
@@ -7146,6 +7158,12 @@ button.bg-dark:focus {
   .align-self-sm-stretch {
     -ms-flex-item-align: stretch !important;
     align-self: stretch !important;
+  }
+  .bg-primary {
+    background-color: #ac0700 !important;
+    background-image: none;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
   }
 }
 

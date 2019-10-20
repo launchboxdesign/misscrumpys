@@ -840,6 +840,7 @@ section#contact .form-group input, section#contact .form-group textarea {
 
 .contact p {
 	font-size: 13px;
+	text-align:center;
 }
 
 .contact .day {

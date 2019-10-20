@@ -57,6 +57,7 @@ p {
 	line-height: 23px;
 	letter-spacing: 0.2px;
 	color: #444444;
+	text-align: left;
 }
 
 .dark-bg p {

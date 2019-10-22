@@ -1807,6 +1807,12 @@ pre code {
   .table-responsive-sm > .table-bordered {
     border: 0;
   }
+  .bg-primary {
+    background-color: #ac0700 !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+  }
+ 
 }
 
 @media (max-width: 767.98px) {
